@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Luciano Veras</h1>
+<h3 align="center">ADMINISTRADOR | Gestión integral de empresas</h3>
 
-<!--
-**Luciano-Veras/Luciano-Veras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:lucianoveras.dev@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-lucianoveras.dev%40gmail.com-blue?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/luciano-veras">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💼 Sobre Mí
+
+Cuento con una sólida trayectoria de **10 años en administración de empresas**, especializándome en la gestión integral de operaciones administrativas y financieras. Me apasiona optimizar procesos a través de la tecnología, combinando mi experiencia en sistemas ERP con conocimientos autodidactas en **Programación y Data Science**. 
+
+Mi objetivo es aportar soluciones estructuradas y metódicas para superar desafíos y ayudar a escalar negocios.
+
+
+### 📚 Educación
+
+- 🎓 **Contador Público** - Facultad de Ciencias Económicas, UNC.
+
+<br>
+
+<!-- Esta tarjeta mostrará tus estadísticas reales de GitHub automáticamente. Solo cambia "TU_USUARIO_GITHUB" por tu usuario real -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luciano-Veras&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=94A3B8" alt="GitHub Stats" />
+</p>
+
+
