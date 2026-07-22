@@ -30,4 +30,3 @@ Mi objetivo es aportar soluciones estructuradas y metÃ³dicas para superar desafÃ
   <img src="https://github-readme-stats.vercel.app/api?username=Luciano-Veras&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=94A3B8" alt="GitHub Stats" />
 </p>
 
-
