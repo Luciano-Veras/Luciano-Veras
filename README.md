@@ -26,4 +26,4 @@ Mi objetivo es aportar soluciones estructuradas y metódicas para superar desaf�
 <br>
 
 <!-- Esta tarjeta mostrará tus estadísticas reales de GitHub automáticamente. Solo cambia "TU_USUARIO_GITHUB" por tu usuario real -->
-![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=Luciano-Veras&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats-8238.vercel.app/api?username=Luciano-Veras&show_icons=true&theme=radical)
